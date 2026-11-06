@@ -9,7 +9,8 @@ Professional Shiny application designed to simulate and analyze the famous **Mon
 1. **Clone the repository** to your local machine.
 2. Ensure you have the required **R packages** installed. Run this command in your R console:
 
-   ```r install.packages(c("shiny", "shinythemes", "ggplot2", "googlesheets4"))
+   ```r
+   install.packages(c("shiny", "shinythemes", "ggplot2", "googlesheets4"))
    ```
    
 3. Open the project in **RStudio**.
